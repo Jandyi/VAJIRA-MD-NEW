@@ -11,7 +11,7 @@ const FOOTERNAME = '> ＶＡＪＩＲＡ -  ＭＤ - Ｖ4';
 global.owner = process.env.OWNER_NUMBER  || '963991186984' ;  // ADD YOUR NUMBER WITHOUT +
     
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=HQl2yZ6Y#y07ajsL93_Tcxb9nd0aH2sb65c3tpj7yuSrNDfpSiBU' ,
+SESSION_ID: process.env.SESSION_ID || 'HNkhGJ4Y#iGh6mSXUdUXhkHsk4sQGV28d2xc1Z9fvnAcDgK2gD5A' ,
 travaSend: process.env.TRAVA_SEND || '25' ,   
 MODERATORS : process.env.MODERATORS === undefined ? "94772801923,94787820101" : process.env.MODERATORS ,    
 MAX_SIZE: process.env.MAX_SIZE === undefined ? '1536': process.env.MAX_SIZE,/*add this in megabytes*/    
